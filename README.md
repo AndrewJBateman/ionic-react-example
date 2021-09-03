@@ -29,6 +29,7 @@
 
 * Yelp REST API key required
 * New Ionic 6 bottom sheet drawer modal used to show list of places, activated by an Ionfab button
+* [Restaurant Finder Ionic-React UI app](https://ionicreacthub.com/ionic-restaurant-finder-with-maps) by [Alan Montgomery](https://alanmontgomery.co.uk/) used to try out new Ionic 6 bottom sheet drawer modal
 
 ## :camera: Screenshots
 
