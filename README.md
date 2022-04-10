@@ -55,12 +55,12 @@
 * Install dependencies using `npm i`
 * Add Yelp API key to `server.js`
 * `node server.js` to start server
-* Run `npm run start` or `ionic serve` to open the dev server at `http://localhost:8100/`
+* Run `npm run start` or `ionic serve` to open the frontend at `http://localhost:8100/`
 
 ## :floppy_disk: Setup * Build, Android Studio
 
 * Run `ionic build` to create build files
-* If you don't have it already then Install Android Studio (on Windows 10 in my case)
+* If you don't have it already then Install Android Studio (on Windows 10 Home in my case)
 * Connect mobile device to Android Studio via USB. To go into dev mode on Realme 5 Pro mobile phone connected via USB to Android: Go to 'About Phone'/'Version Baseband & Kernal' in phone settings then click 7 times on 'Version' and enter phone access code. Go to Settings/Additional Settings/Developer options and enable 'USB debugging'
 
 ## :computer: Code Examples
